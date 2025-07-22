@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import heroImg from "../assets/my-photo.JPG"; // replace with your actual image
 //import CV from "../assets/Faris-Nasser-CV.pdf"; // replace with your actual CV
 
 const Hero = () => {
@@ -25,7 +24,7 @@ const Hero = () => {
         {/* Right: Profile Image */}
         <div className="flex-shrink-0 flex justify-center items-center">
           <div className="w-56 h-56 md:w-72 md:h-72 rounded-full border-4 border-purple-400 shadow-[0_0_32px_8px_rgba(162,89,255,0.3)] overflow-hidden bg-white/10 flex items-center justify-center">
-            <img src="/src/assets/my-photo.JPG" alt="Profile" className="w-full h-full object-cover" />
+            <img src="/gallery/my-photo.JPG" alt="Profile" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>

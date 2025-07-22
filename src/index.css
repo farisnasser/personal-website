@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Poppins:wght@700;900&display=swap');
 
 body {
-  background-image: url('./assets/pexels-mutahir-jamil-3609907-13449127.jpg');
+  background-image: url('/gallery/pexels-mutahir-jamil-3609907-13449127.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
