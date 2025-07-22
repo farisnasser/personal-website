@@ -46,7 +46,7 @@ const images = [
   'IMG-20250722-WA0005.jpg',
   'IMG-20250722-WA0003.jpg',
   'IMG-20250722-WA0002.jpg',
-].map(f => `/src/assets/${f}`);
+].map(f => `/gallery/${f}`);
 
 const Gallery = () => {
   const [modalImg, setModalImg] = useState(null);
