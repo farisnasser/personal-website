@@ -17,7 +17,7 @@ const Hero = () => {
 
           </p>
           <div className="flex gap-4 justify-center md:justify-start mb-4">
-            <a href="#" className="px-6 py-2 rounded-full bg-purple-500 !text-white font-bold shadow-md hover:bg-purple-600 transition">View CV</a>
+            <a href="/gallery/Faris-Nasser-CV.pdf" download className="px-6 py-2 rounded-full bg-purple-500 !text-white font-bold shadow-md hover:bg-purple-600 transition">Download CV</a>
             <a href="#contact" className="px-6 py-2 rounded-full bg-purple-500 !text-white font-bold shadow-md hover:bg-purple-600 transition">Contact Me</a>
           </div>
         </div>
